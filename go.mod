@@ -16,7 +16,7 @@ require (
 	google.golang.org/appengine v1.6.7
 	google.golang.org/genproto/googleapis/bytestream v0.0.0-20230629202037-9506855d4529
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230629202037-9506855d4529
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.31.0
 )
 
